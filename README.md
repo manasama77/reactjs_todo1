@@ -1,4 +1,6 @@
-### Reference: [https://www.youtube.com/watch?v=Xeozh4udqUQ](https://www.youtube.com/watch?v=Xeozh4udqUQ)
+### Reference:
+
+[https://www.youtube.com/watch?v=Xeozh4udqUQ](https://www.youtube.com/watch?v=Xeozh4udqUQ)
 
 # Getting Started with Create React App
 
